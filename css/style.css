@@ -71,12 +71,12 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: #155c99;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: #155c99;
 }
 
 ::selection {
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #155c99;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #155c99;
 }
 
 .fh5co-heading {
@@ -1111,9 +1111,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #FF9000;
+  background: #155c99;
   color: #fff;
-  border: 2px solid #FF9000;
+  border: 2px solid #155c99;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1122,10 +1122,10 @@ input[type="text"] {
 .btn-primary.btn-outline {
   background: transparent;
   color: #FF9000;
-  border: 2px solid #FF9000;
+  border: 2px solid #155c99;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF9000;
+  background: #155c99;
   color: #fff;
 }
 
