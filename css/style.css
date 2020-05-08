@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #1f64a1;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: #1f64a1;
   outline: none;
   text-decoration: none;
 }
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: #1f64a1;
 }
 
 #fh5co-header,
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #1f64a1;
 }
 #fh5co-features h2 {
   color: #fff;
