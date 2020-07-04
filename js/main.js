@@ -147,3 +147,33 @@
 
 
 }());
+
+
+
+
+
+  function readMore(id) {
+	var moreText = document.getElementById("readmore-hidden-" + id);
+	var btnText = document.getElementById("readmore-" + id);
+	var btnText2 = document.getElementById("readless-" + id);
+  
+	if (moreText.style.display === "none") {
+		btnText.style.display = "none";
+		moreText.style.display = "inline";
+		btnText2.style.display = "inline";
+	} else {
+		btnText.style.display = "inline";
+		moreText.style.display = "none";
+		btnText2.style.display = "none";
+	}
+  } 
+
+
+//overlay
+function overlayOn(id) {
+	document.getElementById(id).style.display = "block";
+  }
+  
+  function overlayOff(id) {
+	document.getElementById(id).style.display = "none";
+  }
